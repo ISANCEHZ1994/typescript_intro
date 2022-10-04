@@ -13,3 +13,7 @@
 // Medium to Large projects: TypeScript - Simple Projects: JavaScript
 
 // TRANSPILATION is when TypeScript translates into JavaScript
+
+// outDir inside of tsconfig.json file: specifices the directory that will contain the JavaScript files
+
+// NOTE: had this file outside of scope had to move into the /src folder otherwise error!
